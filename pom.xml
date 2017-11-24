@@ -2,12 +2,12 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.github.evgenbar</groupId>
+	<groupId>com.github.meltedspark</groupId>
 	<artifactId>java-binary-decoder</artifactId>
 	<version>1.0.3</version>
 	<name>${project.groupId}:${project.artifactId}</name>
 	<description>Reflection based decoder for decoding binary stream of C-like structures</description>
-	<url>https://github.com/evgenbar/java-binary-decoder</url>
+	<url>https://github.com/meltedspark/java-binary-decoder</url>
 	<licenses>
 		<license>
 			<name>The Apache License, Version 2.0</name>
@@ -17,13 +17,13 @@
 	<developers>
 		<developer>
 			<name>Evgeny Barabanov</name>
-			<organizationUrl>https://github.com/evgenbar</organizationUrl>
+			<organizationUrl>https://github.com/meltedspark</organizationUrl>
 		</developer>
 	</developers>
 	<scm>
-		<connection>scm:git:git://github.com/evgenbar/java-binary-decoder.git</connection>
-		<developerConnection>scm:git:ssh://github.com/evgenbar/java-binary-decoder.git</developerConnection>
-		<url>http://github.com/evgenbar/java-binary-decoder/tree/master</url>
+		<connection>scm:git:git://github.com/meltedspark/java-binary-decoder.git</connection>
+		<developerConnection>scm:git:ssh://github.com/meltedspark/java-binary-decoder.git</developerConnection>
+		<url>http://github.com/meltedspark/java-binary-decoder/tree/master</url>
 	</scm>
 	<distributionManagement>
 		<snapshotRepository>
