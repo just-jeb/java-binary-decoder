@@ -3,7 +3,7 @@ Simple library for decoding C++\C-like structures serialized to a binary buffer 
 
 ## Purpose
 The library is intended to ease the maintenance of protocol between Java and the side that defines the binary structure.  
-The decoding is reflection based, thus it eliminates the need for chaning the decoding code when the binary structure changes. The only thing that has to be changed is a corresponding Java class.
+The decoding is reflection based, thus it eliminates the need for changing the decoding code when the binary structure changes. The only thing that has to be changed is a corresponding Java class.
 
 ## Features
 * Signed\Unsigned integer types
